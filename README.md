@@ -1,1 +1,3 @@
-# mauritsvzb.github.io
+# Distribution Patterns Within Predator Communities
+
+This individual-based model was used to investigate the potential interspecific drivers of distribution patterns within predator communities. The description and context of this IBM can be found here: **TBD: The manuscript has been submitted for pubication but not yet published)**
