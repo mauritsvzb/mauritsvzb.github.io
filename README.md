@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmauritsvzb%2Fmauritsvzb.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=ulule.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Distribution Patterns Within Predator Communities
 
 This individual-based model was used to investigate the potential interspecific drivers of distribution patterns within predator communities. The description and context of this IBM can be found here: 
