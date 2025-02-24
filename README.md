@@ -2,7 +2,7 @@
 
 # Distribution Patterns Within Predator Communities
 
-This individual-based model was used to investigate the potential interspecific drivers of distribution patterns within predator communities. The description and context of this IBM can be found in the following publication: 
+This individual-based model programmed in NetLogo was develooped to investigate the potential interspecific drivers of distribution patterns within predator communities. The description and context of this IBM can be found in the following publication: 
 
 [Intraguild processes drive space-use patterns in a large-bodied marine predator community](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14108)
 
